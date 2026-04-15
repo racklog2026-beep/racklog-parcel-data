@@ -1,0 +1,3 @@
+# Combined statewide files are too large for GitHub
+# Serve via Cloudflare R2 or direct download
+wi/*_combined_*.json
